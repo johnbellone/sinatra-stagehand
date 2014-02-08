@@ -1,6 +1,6 @@
 Sinatra Stagehand
 =================
-sinatra-stagehand is nothing more than Sinatra and some extensions managed in a useful way.
+Sinatra with Bootstrap, jQuery, Haml, LESS and Sprockets!
 
 ## Requirements
 * [Node][6]
