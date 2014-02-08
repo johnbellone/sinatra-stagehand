@@ -1,2 +1,2 @@
-#= require jquery/jquery
+#= require jquery
 #= require_self
