@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.version       = Stagehand::VERSION
   spec.authors       = ['John Bellone']
   spec.email         = ['john.bellone.jr@gmail.com']
-  spec.description   = %q{Sinatra with Bootstrap, Bower, jQuery, Haml, LESS and Sprockets!}
+  spec.description   = %q{Sinatra with Bootstrap, Bower, jQuery, Haml, LESS and Sprockets.}
   spec.summary       = IO.read(File.join(File.dirname(__FILE__), 'README.md'))
   spec.homepage      = 'https://github.com/johnbellone/sinatra-stagehand'
   spec.license       = 'MIT'

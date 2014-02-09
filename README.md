@@ -1,10 +1,9 @@
 Sinatra Stagehand
 =================
-Sinatra with Bootstrap, jQuery, Haml, LESS and Sprockets!
+Sinatra with Bootstrap, jQuery, Haml, LESS and Sprockets.
 
 ## Requirements
-* [Node][6]
-* [Ruby][7] (>= 2.0.0)
+* [Ruby][7] (>= 1.9.3)
 
 # Out of the Box
 * Sinatra
@@ -33,5 +32,4 @@ The same obviously goes for any gems that are being utilized by the project.
 [3]: http://jquery.com
 [4]: https://github.com/sstephenson/sprockets
 [5]: http://fortawesome.github.io/Font-Awesome/
-[6]: http://nodejs.org
 [7]: http://ruby-lang.org
