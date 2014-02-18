@@ -12,6 +12,7 @@ Sinatra with Bootstrap, jQuery, Haml, LESS and Sprockets.
 * [jQuery][3]
 * [Sprockets][4] (Asset Pipeline)
 * [Font Awesome][5]
+* [Capistrano][8]
 
 ## Usage
 To get a simple application setup and ready for hacking merely checkout and run
@@ -33,3 +34,4 @@ The same obviously goes for any gems that are being utilized by the project.
 [4]: https://github.com/sstephenson/sprockets
 [5]: http://fortawesome.github.io/Font-Awesome/
 [7]: http://ruby-lang.org
+[8]: https://capistranorb.com
